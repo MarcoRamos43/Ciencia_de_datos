@@ -18,7 +18,7 @@ Para esto obtenga lo siguiente:
 2. Separe sus datos en 70/30.
 3. Obtenga su modelo de Regresión lineal.
 4. Entregue la recta matemática de regresión con las estimaciones obtenidas.
-5. Realiceundiagnósticodelosresiduosdelmodelo.
+5. Realice un diagnóstico de los residuos del modelo.
 6. Realice el test de normalidad.
 7. Obtenga las predicciones del modelo.
 8. Entregue el error del test.
